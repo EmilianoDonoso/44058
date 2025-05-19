@@ -37,7 +37,7 @@ El script hará automáticamente:
 
 .Validar la entrada según la gramática ANTLR4.
 
-.ostrar en consola el árbol de derivación.
+.Mostrar en consola el árbol de derivación.
 
 .Interpretar y ejecutar la acción principal, que puede incluir mover archivos, escaneo profundo y notificaciones.
 
