@@ -5,14 +5,17 @@ Este proyecto utiliza ANTLR4 para generar analizadores léxicos y sintácticos. 
 ## Instalación
 
 .Paso 1: Clonar el repositorio
+
 Abrí una terminal y ejecutá:
 
 git clone https://github.com/EmilianoDonoso/44058.git
+
 Luego:
 
 cd 44058
 
 .Paso 2: Abrir el proyecto en Visual Studio Code
+
 Desde la misma terminal:
 
 code .
