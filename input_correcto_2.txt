@@ -1,0 +1,5 @@
+accion segundaAccion {
+  moverArchivo a /var/log/sistema.log
+  usarEscaneoProfundo
+  notificar "Archivo movido correctamente"
+}

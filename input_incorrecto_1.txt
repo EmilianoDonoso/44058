@@ -1,0 +1,4 @@
+accion copiarAlgo {
+  copiarArchivo a /home/usuario/copia.txt
+  notificar "Archivo copiado"
+}

@@ -1,0 +1,5 @@
+accion primeraAccion {
+  moverArchivo a /home/usuario/documentos/informe.txt
+  usarEscaneoProfundo
+  notificar "Análisis completo"
+}

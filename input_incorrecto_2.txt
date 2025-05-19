@@ -1,0 +1,5 @@
+procesarLog {
+  moverArchivo a /logs/archivo.log
+  usarEscaneoProfundo
+  notificar "Listo"
+}
